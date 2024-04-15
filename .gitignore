@@ -67,3 +67,6 @@ yarn-error.log
 
 #copy to delete
 /copy.tsx
+
+#Api key in this file
+/ios/FoodFinder/AppDelegate.mm

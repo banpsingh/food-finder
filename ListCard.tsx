@@ -3,7 +3,6 @@ import { ScreenHeight } from '@rneui/base'
 import { StyleSheet, Text, Image, ImageBackground, View, Button, TouchableOpacity} from 'react-native'
 import { useLocationContext } from './Global/LocationContext'
 import StarRating from './StarRating'
-import Config from "react-native-config";
 import {API_KEY} from '@env'
 
 
