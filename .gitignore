@@ -69,4 +69,4 @@ yarn-error.log
 /copy.tsx
 
 #Api key in this file
-/ios/FoodFinder/AppDelegate.mm
+ios/FoodFinder/AppDelegate.mm
